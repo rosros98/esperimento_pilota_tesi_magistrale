@@ -23,7 +23,7 @@ Each experiment was designed to test different methodologies and evaluate the im
 * Python
 * Pandas
 * NumPy
-* Matplotlib
+* Matplotlib / Seaborn (data visualization)
 
 ## 📂 Repository Structure
 ```
